@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 +1 year of experience in web development, SEO, and graphic design, enhancing the visibility and reach of an academy.<br><br>🎓 Graduated in Computer Engineering and Video Game Design, with experience in projects involving: <br>🎮 Video games<br>🏬 Marketplace infrastructures<br>🌐 Network monitoring<br><br>💡 My personal projects showcase multidisciplinary development skills across various fields, demonstrating adaptability and a commitment to continuous learning.
+👨‍💻 +2 years of experience in web development, with a strong focus on building and optimizing e-commerce solutions as a Full-Stack Developer at Fantasticfy, supported by earlier experience developing the website of an academy, along with design and SEO tasks.<br><br>🎓 Graduated in Computer Engineering and Video Game Design<br>🎮 Video games<br>🏬 Marketplace infrastructures<br>🌐 Network monitoring<br>💡 My projects reflect multidisciplinary skills, adaptability, and continuous learning.
 
 
 ## 🌐 Socials:
